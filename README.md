@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gajera</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7cc4614ccf560c63d36fedf006917e16df87e660620e8274d9216d2d97c3be1c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861334e79633235796347313263474a7a62334272636a467365545179616e4e7a6257316d646e4a685a7a4a6d4e4770766147733364435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4c3152317476493973766b495777705659722f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajera-dhruv&label=Profile%20views&color=0e75b6&style=flat" alt="gajera-dhruv" /> </p>
 
